@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "42GZQoe+pVPBc1kd4ok6UrX3R2nhsBCOS0DCGu9pNOWFuJOoiHaJjA3gWxYhMlxJv1ObfjCyWd5+GGykx4zHVg==",
+  "dgSpecHash": "5C2rw3ONwnqTStS3cnkYqX0Fbmwkuslg2tW3sCIFenH25SydX1iYaGCixbTgOzOiJ8mEfzUr70cuGYB+zbw4jA==",
   "success": true,
   "projectFilePath": "C:\\dotnet\\clean_architecture\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
