@@ -5,17 +5,11 @@ C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.Api.runtimeconfig.json
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.Api.dll
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.Api.pdb
-C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.csproj.AssemblyReference.cache
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.AssemblyInfoInputs.cache
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.AssemblyInfo.cs
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.csproj.CoreCompileInputs.cache
-C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -39,3 +33,4 @@ C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.Application.pdb
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.Infrastructure.pdb
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\bin\Debug\net8.0\DinnerApp.Domain.pdb
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Api\obj\Debug\net8.0\DinnerApp.Api.sourcelink.json

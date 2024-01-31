@@ -1,13 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <ItemGroup>
-    <ProjectReference Include="..\DinnerApp.Domain\DinnerApp.Domain.csproj" />
-  </ItemGroup>
-
-  <PropertyGroup>
+<PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DinnerApp.Domain\DinnerApp.Domain.csproj" />
+  </ItemGroup>
 
 </Project>

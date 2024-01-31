@@ -9,3 +9,4 @@ C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\Dinn
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\refint\DinnerApp.Contracts.dll
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.pdb
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\ref\DinnerApp.Contracts.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.sourcelink.json

@@ -13,3 +13,4 @@ C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\Di
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\DinnerApp.Domain.pdb
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.csproj.AssemblyReference.cache
 C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.csproj.CopyComplete
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.sourcelink.json
