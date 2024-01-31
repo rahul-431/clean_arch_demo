@@ -1,0 +1,15 @@
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\DinnerApp.Application.deps.json
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\DinnerApp.Application.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\DinnerApp.Application.pdb
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.AssemblyInfoInputs.cache
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.AssemblyInfo.cs
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.csproj.CoreCompileInputs.cache
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\refint\DinnerApp.Application.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.pdb
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\ref\DinnerApp.Application.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\DinnerApp.Domain.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\bin\Debug\net8.0\DinnerApp.Domain.pdb
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.csproj.AssemblyReference.cache
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Application\obj\Debug\net8.0\DinnerApp.Application.csproj.CopyComplete

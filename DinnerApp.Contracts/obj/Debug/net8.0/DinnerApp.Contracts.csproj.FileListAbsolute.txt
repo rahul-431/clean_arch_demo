@@ -1,0 +1,11 @@
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\bin\Debug\net8.0\DinnerApp.Contracts.deps.json
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\bin\Debug\net8.0\DinnerApp.Contracts.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\bin\Debug\net8.0\DinnerApp.Contracts.pdb
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.AssemblyInfoInputs.cache
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.AssemblyInfo.cs
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.csproj.CoreCompileInputs.cache
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\refint\DinnerApp.Contracts.dll
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\DinnerApp.Contracts.pdb
+C:\dotnet\clean_architecture\DinnerApp\DinnerApp.Contracts\obj\Debug\net8.0\ref\DinnerApp.Contracts.dll
